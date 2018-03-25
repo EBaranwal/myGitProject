@@ -6,6 +6,7 @@ public class Test1 extends Test2 {
 		
 		print();
 		System.out.println("Implementing GitHub");
+		System.out.println("Sunday");
 
 	}
 
